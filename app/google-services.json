@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813604454311",
+    "firebase_url": "https://lubook-127d0.firebaseio.com",
+    "project_id": "lubook-127d0",
+    "storage_bucket": "lubook-127d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813604454311:android:bfc4b3923719c67d7f8082",
+        "android_client_info": {
+          "package_name": "com.neelima.lu.luboi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813604454311-f4hauegmijco6m8eombs9lta259qn9d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neelima.lu.luboi",
+            "certificate_hash": "5d270a308e5f0964929fcf8136b4d63d256f25dd"
+          }
+        },
+        {
+          "client_id": "813604454311-55g3af8g5gsp8i3dd8iard9leqlitbra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8KTT7SstXpztSESslnRr7TUqWpLFxlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813604454311-55g3af8g5gsp8i3dd8iard9leqlitbra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
